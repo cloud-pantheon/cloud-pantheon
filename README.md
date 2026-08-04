@@ -165,29 +165,19 @@ AI/ML • SaaS • Web Applications
 
 ## 📈 GitHub Statistics
 
-<table>
-<tr>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=cloud-pantheon&show_icons=true&hide_border=true&border_radius=16&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&ring_color=58A6FF"
+    alt="GitHub Stats"
+  />
 
-<td width="60%" align="center">
-
-<img
-src="https://github-stats-extended.vercel.app/api?username=cloud-pantheon&show_icons=true&theme=tokyonight&hide_border=true"
-alt="GitHub Stats"
-/>
-
-</td>
-
-<td width="60%" align="center">
-
-<img
-src="https://github-stats-extended.vercel.app/api/top-langs?username=cloud-pantheon&layout=compact&theme=tokyonight&hide_border=true"
-alt="Most Used Languages"
-/>
-
-</td>
-
-</tr>
-</table>
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=cloud-pantheon&layout=compact&hide_border=true&border_radius=16&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Most Used Languages"
+  />
+</p>
 
 ---
 
