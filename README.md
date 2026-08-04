@@ -68,6 +68,14 @@ Currently studying Computer Science at Independent University Bangladesh
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="58" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="58" height="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.gstatic.com/aistudio/ai_studio_favicon_2_32x32.png" width="58" height="58" />
 </p>
 
 ---
