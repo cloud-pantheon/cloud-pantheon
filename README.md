@@ -12,11 +12,11 @@ Currently studying Computer Science at Independent University Bangladesh
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student at Independent University Bangladesh
-- 💻 Interested in Software Engineering, Full-Stack Development, AI and Computer Vision
-- 🔭 Currently building web applications and academic projects
-- 🌱 Learning Java, Data Structures, Algorithms and Machine Learning
-- 🎯 Goal: Become a software engineer and build impactful technology solutions
+* 🎓 Computer Science student at Independent University Bangladesh
+* 💻 Interested in Software Engineering, Full-Stack Development, AI and Computer Vision
+* 🔭 Currently building web applications and academic projects
+* 🌱 Learning Java, Data Structures, Algorithms and Machine Learning
+* 🎯 Goal: Become a software engineer and build impactful technology solutions
 
 ---
 
@@ -24,34 +24,64 @@ Currently studying Computer Science at Independent University Bangladesh
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
+
+
+### 🌿 Fog & Fern SF — E-Commerce Platform
+
+Full-stack plant shop e-commerce platform with customer accounts, secure checkout, order management, and an administration dashboard.
+
+**Features**
+
+* Dynamic product catalog and filtering
+* Shopping cart and customer accounts
+* Square payment integration
+* Order tracking and branded receipts
+* Product, inventory and order management
+* Role-based admin dashboard
+
+**Tech Stack**
+
+Node.js • Express.js • EJS • SQLite • JavaScript • Square API
+
+<br>
+
+<a href="https://github.com/akira2049/Fog-and-Fern-plant-shop---e-commerce-platform">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 
 ### 👂 OtoVision AI
 
@@ -110,31 +140,7 @@ PHP • MySQL • JavaScript • HTML • CSS
 
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
 
-Modern responsive portfolio website showcasing projects, skills, and achievements.
-
-**Features**
-
-* Responsive Design
-* Animated Components
-* Project Showcase
-* Contact Section
-* GitHub Integration
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-<br>
-
-<a href="https://akira2049.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
 
 ### 🚧 More Coming Soon
 
@@ -156,9 +162,10 @@ AI/ML • SaaS • Web Applications
 </td>
 
 </tr>
+
 </table>
 
-
+---
 
 ## 📈 GitHub Statistics
 
@@ -174,17 +181,17 @@ AI/ML • SaaS • Web Applications
 
 ## 🎯 Current Goals
 
-- Improve Data Structures & Algorithms
-- Build Full-Stack Projects
-- Learn Machine Learning & Computer Vision
-- Contribute to Open Source
-- Prepare for Software Engineering Internships
+* Improve Data Structures & Algorithms
+* Build Full-Stack Projects
+* Learn Machine Learning & Computer Vision
+* Contribute to Open Source
+* Prepare for Software Engineering Internships
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: shanto201307@gmail.com
+📧 Email: [shanto201307@gmail.com](mailto:shanto201307@gmail.com)
 
 🔗 LinkedIn: https://www.linkedin.com/in/shahrier-emon-shanto-56049a256/
 
