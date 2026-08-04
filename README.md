@@ -178,13 +178,14 @@ src="https://github-stats-extended.vercel.app/api/top-langs?username=cloud-panth
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=cloud-pantheon&theme=tokyonight"
-alt="GitHub Streak"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloud-pantheon&theme=tokyonight"
+alt="GitHub Profile Details"
 />
 
 </p>
 
 ---
+
 
 ## 🎯 Current Goals
 
