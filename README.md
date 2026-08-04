@@ -168,7 +168,7 @@ AI/ML • SaaS • Web Applications
 <table>
 <tr>
 
-<td width="100%" align="center">
+<td width="60%" align="center">
 
 <img
 src="https://github-stats-extended.vercel.app/api?username=cloud-pantheon&show_icons=true&theme=tokyonight&hide_border=true"
@@ -177,7 +177,7 @@ alt="GitHub Stats"
 
 </td>
 
-<td width="100%" align="center">
+<td width="60%" align="center">
 
 <img
 src="https://github-stats-extended.vercel.app/api/top-langs?username=cloud-pantheon&layout=compact&theme=tokyonight&hide_border=true"
