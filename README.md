@@ -31,12 +31,20 @@ Currently studying Computer Science at Independent University Bangladesh
 
 ### 🌐 Web Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="58" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/EJS-1F2937?style=for-the-badge&logo=ejs&logoColor=B4CA65" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
 </p>
 
 ### Database
