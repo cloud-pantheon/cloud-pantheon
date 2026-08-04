@@ -47,8 +47,7 @@ Currently studying Computer Science at Independent University Bangladesh
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express&theme=dark" width="58" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" height="58" />
-</p>
+  <img src="https://cdn.simpleicons.org/ejs/B4CA65" width="58" height="58" />
 
 ### 🗄️ Database
 
