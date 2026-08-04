@@ -73,7 +73,7 @@ Node.js • Express.js • EJS • SQLite • JavaScript • Square API
 
 <br>
 
-<a href="https://github.com/akira2049/Fog-and-Fern-plant-shop---e-commerce-platform">
+<a href="https://github.com/cloud-pantheon/Fog-and-Fern-SF">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
