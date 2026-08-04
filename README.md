@@ -178,7 +178,9 @@ src="https://github-stats-extended.vercel.app/api/top-langs?username=cloud-panth
 <p align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-pantheon&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=cloud-pantheon&theme=tokyonight"
+alt="GitHub Streak"
+/>
 
 </p>
 
