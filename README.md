@@ -22,12 +22,17 @@ Currently studying Computer Science at Independent University Bangladesh
 
 ## 🛠 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="58" />
+</p>
 
 ### 🌐 Web Development
 
@@ -47,18 +52,27 @@ Currently studying Computer Science at Independent University Bangladesh
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
 </p>
 
-### Database
+### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="58" />
+</p>
 
-### Tools
+### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="58" />
+</p>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
