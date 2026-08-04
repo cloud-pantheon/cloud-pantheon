@@ -167,9 +167,9 @@ AI/ML • SaaS • Web Applications
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akira2049&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloud-pantheon&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira2049&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-pantheon&layout=compact&theme=tokyonight"/>
 
 </p>
 
