@@ -25,6 +25,8 @@ Currently studying Computer Science at Independent University Bangladesh
 ### 💻 Programming Languages
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="58" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java&theme=dark" width="58" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="58" />
@@ -40,8 +42,6 @@ Currently studying Computer Science at Independent University Bangladesh
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="58" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="58" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="58" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="58" />
   &nbsp;&nbsp;&nbsp;
