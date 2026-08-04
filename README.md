@@ -1,16 +1,199 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Shahrier Emon Shanto</h1>
 
-<!--
-**cloud-pantheon/cloud-pantheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student • Software Developer • Problem Solver
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Currently studying Computer Science at Independent University Bangladesh
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science student at Independent University Bangladesh
+- 💻 Interested in Software Engineering, Full-Stack Development, AI and Computer Vision
+- 🔭 Currently building web applications and academic projects
+- 🌱 Learning Java, Data Structures, Algorithms and Machine Learning
+- 🎯 Goal: Become a software engineer and build impactful technology solutions
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 👂 OtoVision AI
+
+AI-powered eardrum anomaly detection system using deep learning and computer vision.
+
+**Features**
+
+* Multi-class ear disease classification
+* Confidence score prediction
+* Medical feedback generation
+* Image upload and analysis
+* Node.js + Python integration
+
+**Tech Stack**
+
+Python • PyTorch • MobileNetV2 • Node.js • Express
+
+<br>
+
+<a href="https://github.com/akira2049/otovision-ai">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏦 Banking Management System Desktop App
+
+Full-stack banking platform with transfers, payments, statements and admin dashboard.
+
+**Features**
+
+* Customer Authentication
+* Fund Transfer
+* Mobile Recharge
+* Bill Payment
+* PDF Statements
+* Admin Portal
+
+**Tech Stack**
+
+PHP • MySQL • JavaScript • HTML • CSS
+
+<br>
+
+<a href="https://github.com/akira2049/Banking-System-Web-App.git">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+
+Modern responsive portfolio website showcasing projects, skills, and achievements.
+
+**Features**
+
+* Responsive Design
+* Animated Components
+* Project Showcase
+* Contact Section
+* GitHub Integration
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+<br>
+
+<a href="https://akira2049.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚧 More Coming Soon
+
+Currently working on new projects involving:
+
+* Artificial Intelligence
+* Computer Vision
+* Full-Stack Development
+* Smart Healthcare Systems
+
+**Focus Areas**
+
+AI/ML • SaaS • Web Applications
+
+<br>
+
+<img src="https://img.shields.io/badge/Coming_Soon-555555?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akira2049&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira2049&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Improve Data Structures & Algorithms
+- Build Full-Stack Projects
+- Learn Machine Learning & Computer Vision
+- Contribute to Open Source
+- Prepare for Software Engineering Internships
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: shanto201307@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/shahrier-emon-shanto-56049a256/
+
+💻 Portfolio: https://shahriershanto.netlify.app
+
+🌐 GitHub: https://github.com/cloud-pantheon
+
+---
+
+<p align="center">
+"Learning one project at a time and building skills for the future."
+</p>
