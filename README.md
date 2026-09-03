@@ -222,7 +222,7 @@ AI/ML • SaaS • Web Applications
 
 ## 📫 Connect With Me
 
-📧 Email: shanto201307@gmail.com
+📧 Email: shahrieremonshanto@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/shahrier-emon-shanto-56049a256/
 
