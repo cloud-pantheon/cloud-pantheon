@@ -131,7 +131,7 @@ Python • PyTorch • MobileNetV2 • Node.js • Express
 
 <br>
 
-<a href="https://github.com/akira2049/otovision-ai">
+<a href="https://github.com/cloud-pantheon/otovision-ai">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -162,7 +162,7 @@ PHP • MySQL • JavaScript • HTML • CSS
 
 <br>
 
-<a href="https://github.com/akira2049/Banking-System-Web-App.git">
+<a href="https://github.com/cloud-pantheon/Banking-System-Web-App.git">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
