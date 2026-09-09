@@ -12,11 +12,11 @@ Currently studying Computer Science at Independent University Bangladesh
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student at Independent University Bangladesh
-- 💻 Interested in Software Engineering, Full-Stack Development, AI and Computer Vision
-- 🔭 Currently building web applications and academic projects
-- 🌱 Learning Java, Data Structures, Algorithms and Machine Learning
-- 🎯 Goal: Become a software engineer and build impactful technology solutions
+* 🎓 Computer Science student at Independent University Bangladesh
+* 💻 Interested in Software Engineering, Full-Stack Development, AI and Machine Learning
+* 🔭 Currently building web applications, AI systems, and academic projects
+* 🌱 Learning Java, Data Structures, Algorithms, Machine Learning, and Retrieval-Augmented Generation
+* 🎯 Goal: Become a software engineer and build impactful technology solutions
 
 ---
 
@@ -48,6 +48,7 @@ Currently studying Computer Science at Independent University Bangladesh
   <img src="https://skillicons.dev/icons?i=express&theme=dark" width="58" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ejs/B4CA65" width="58" height="58" />
+</p>
 
 ### 🗄️ Database
 
@@ -78,6 +79,7 @@ Currently studying Computer Science at Independent University Bangladesh
 </p>
 
 ---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -113,25 +115,29 @@ Node.js • Express.js • EJS • SQLite • JavaScript • Square API
 
 <td width="50%" valign="top">
 
-### 👂 OtoVision AI
+### 🇧🇩🌿 ParkWise Bangladesh — RAG AI Assistant
 
-AI-powered eardrum anomaly detection system using deep learning and computer vision.
+Retrieval-Augmented Generation system for exploring information about Bangladesh national parks using a custom knowledge base derived from Bangladesh Forest Department and BFIS materials.
 
 **Features**
 
-* Multi-class ear disease classification
-* Confidence score prediction
-* Medical feedback generation
-* Image upload and analysis
-* Node.js + Python integration
+* Semantic search using text embeddings
+* Automatic national park detection
+* Query expansion and metadata filtering
+* Topic-aware retrieval ranking
+* Gemini-powered grounded responses
+* Source links and freshness information
+* Developer retrieval debug mode
+* Automated retrieval evaluation
+* 100% Top-1 and Top-3 accuracy on an 18-question curated benchmark
 
 **Tech Stack**
 
-Python • PyTorch • MobileNetV2 • Node.js • Express
+Python • Streamlit • Sentence Transformers • Gemini API • NumPy • RAG
 
 <br>
 
-<a href="https://github.com/cloud-pantheon/otovision-ai">
+<a href="https://github.com/cloud-pantheon/ParkWise-Bangladesh">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -170,22 +176,27 @@ PHP • MySQL • JavaScript • HTML • CSS
 
 <td width="50%" valign="top">
 
-### 🚧 More Coming Soon
+### 👂 OtoVision AI
 
-Currently working on new projects involving:
+AI-powered eardrum anomaly detection system using deep learning and computer vision.
 
-* Artificial Intelligence
-* Computer Vision
-* Full-Stack Development
-* Smart Healthcare Systems
+**Features**
 
-**Focus Areas**
+* Multi-class ear disease classification
+* Confidence score prediction
+* Medical feedback generation
+* Image upload and analysis
+* Node.js + Python integration
 
-AI/ML • SaaS • Web Applications
+**Tech Stack**
+
+Python • PyTorch • MobileNetV2 • Node.js • Express
 
 <br>
 
-<img src="https://img.shields.io/badge/Coming_Soon-555555?style=for-the-badge"/>
+<a href="https://github.com/cloud-pantheon/otovision-ai">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -212,17 +223,17 @@ AI/ML • SaaS • Web Applications
 
 ## 🎯 Current Goals
 
-- Improve Data Structures & Algorithms
-- Build Full-Stack Projects
-- Learn Machine Learning & Computer Vision
-- Contribute to Open Source
-- Seeking Web Development/AI Engineer internships
+* Improve Data Structures & Algorithms
+* Build Full-Stack and AI Projects
+* Learn Machine Learning and Retrieval-Augmented Generation
+* Contribute to Open Source
+* Seeking Software Engineering / Web Development / AI internships
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: shahrieremonshanto@gmail.com
+📧 Email: [shahrieremonshanto@gmail.com](mailto:shahrieremonshanto@gmail.com)
 
 🔗 LinkedIn: https://www.linkedin.com/in/shahrier-emon-shanto-56049a256/
 
