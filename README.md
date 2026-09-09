@@ -216,7 +216,7 @@ AI/ML • SaaS • Web Applications
 - Build Full-Stack Projects
 - Learn Machine Learning & Computer Vision
 - Contribute to Open Source
-- Prepare for Software Engineering Internships
+- Seeking Web Development/AI Engineer internships
 
 ---
 
